@@ -7,7 +7,15 @@ Overflow Bug happens when a buffer for a variable is overflowed from above.
 
 Take a look on the next example using Remix:
 
+[![](https://github.com/ethsecurityexamples/Overflow_Underflow/blob/main/1.jpg)](http://https://github.com/ethsecurityexamples/Overflow_Underflow/blob/main/1.jpg)
 
+[![](https://github.com/ethsecurityexamples/Overflow_Underflow/blob/main/2.jpg)](http://https://github.com/ethsecurityexamples/Overflow_Underflow/blob/main/2.jpg)
+
+[![](https://github.com/ethsecurityexamples/Overflow_Underflow/blob/main/3.jpg)](http://https://github.com/ethsecurityexamples/Overflow_Underflow/blob/main/3.jpg)
+
+[![](https://github.com/ethsecurityexamples/Overflow_Underflow/blob/main/solution.jpg)](http://https://github.com/ethsecurityexamples/Overflow_Underflow/blob/main/solution.jpg)
+
+[![](https://github.com/ethsecurityexamples/Overflow_Underflow/blob/main/4.jpg)](http://https://github.com/ethsecurityexamples/Overflow_Underflow/blob/main/4.jpg)
 
 
 
