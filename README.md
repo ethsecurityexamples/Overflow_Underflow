@@ -48,8 +48,7 @@ Take a look on the next example using Remix:
 
 [![](https://github.com/ethsecurityexamples/Overflow_Underflow/blob/main/solution.jpg)](http://https://github.com/ethsecurityexamples/Overflow_Underflow/blob/main/solution.jpg)
 
-[![](https://github.com/ethsecurityexamples/Overflow_Underflow/blob/main/8.jpg)](http://https://github.com/ethsecurityexamples/Overflow_Underflow/blob/main/8.jpg)
-
+[![](https://github.com/ethsecurityexamples/Overflow_Underflow/blob/main/8-2.jpg)](http://https://github.com/ethsecurityexamples/Overflow_Underflow/blob/main/8-2.jpg)
 
 
 The solution for the bug, is to use a Library called SafeMath, in this case SafeMath8 for uint8 operations.
