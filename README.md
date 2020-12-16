@@ -1,5 +1,14 @@
 [![](https://github.com/ethsecurityexamples/Overflow_Underflow/blob/main/title.jpg)](http:/https://github.com/ethsecurityexamples/Overflow_Underflow/blob/main/title.jpg/)
 
+Take a look to the contracts:
+
+        
+    	OverflowUnderflow.sol --> Contract that shows the bugs.
+        
+        OverflowUnderflowSolucion.sol --> Contract that solves the bugs.
+        
+        SafeMath8.sol --> Library used by the contract which solves the bugs.
+        
 
 [![](https://github.com/ethsecurityexamples/Overflow_Underflow/blob/main/overflow_bug.jpg)](http://https://github.com/ethsecurityexamples/Overflow_Underflow/blob/main/overflow_bug.jpg)
 
